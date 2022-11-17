@@ -24,7 +24,7 @@ header{
     align-items: center;
     background-color: hsl(10, 79%, 65%);
     padding: 10px 15px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 h1{
@@ -59,7 +59,7 @@ footer{
     margin-top: 20px;
     border: none;
     border-radius: 20px;
-    padding: 20px;
+    padding: 10px;
 }
 
 .first-section{
