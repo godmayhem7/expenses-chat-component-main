@@ -32,7 +32,12 @@ h1{
     margin: 0;
     font-size: 28px;
 }
-
+.last-divs{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
 .p{
     margin: 0;
     color:hsl(33, 100%, 98%);
